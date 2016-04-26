@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">5 Longest English Words</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="a_word">antidisestablishmentarianism</string>
+    <string name="a_word_source">http://www.oxforddictionaries.com/definition/english/antidisestablishmentarianism</string>
+    <string name="a_word_desc"> (n) opposition to the withdrawal of state support or recognition from an established church, especially the Anglican Church in 19th-century England. </string>
+
+    <string name="f_word">floccinaucinihilipilification</string>
+    <string name="f_word_desc"> (n) Rare. the estimation of something as valueless (encountered mainly as an example of one of the longest words in the English language).</string>
+    <string name="f_word_source">http://www.dictionary.com/browse/floccinaucinihilipilification</string>
+
+    <string name="pne_word">pneumonoultramicroscopicsilicovolcanoconiosis</string>
+    <string name="pne_word_desc"> (n) an obscure term ostensibly referring to a lung disease caused by silica dust, sometimes cited as one of the longest words in the English language.</string>
+    <string name="pne_word_source">http://www.dictionary.com/browse/pneumonoultramicroscopicsilicovolcanoconiosis</string>
+
+    <string name="pse_word">pseudopseudohypoparathyroidism</string>
+    <string name="pse_word_desc"> (n) An inherited disorder that closely simulates the symptons but not the consequences of pseudohypoparathyroidism and, thus it has mild or no manifestations of hypoparathyroidism or tetanic convulsions. </string>
+    <string name="pse_word_source">http://www.dictionary.com/browse/pseudopseudohypoparathyroidism</string>
+
+    <string name="imm_word">immunoelectrophoretic</string>
+    <string name="imm_word_desc"> (n) a technique for the separation and identification of mixtures of proteins, consisting of electrophoresis followed by immunodiffusion.</string>
+    <string name="imm_word_source">www.dictionary.com/browse/immunoelectrophoretic</string>
+
+</resources>
